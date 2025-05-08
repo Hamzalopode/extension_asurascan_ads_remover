@@ -3,7 +3,7 @@
     "description": "Automatically clicks 'Skip Ad' or closes annoying premium/promo popups & banners on AsuraComic.net.",
     "version": "1.0",
     "manifest_version": 3,
-    "permissions": ["activeTab", "scripting", "storage"],
+    "permissions": ["scripting", "storage"],
     "host_permissions": ["*://*.asuracomic.net/*"],
     "action": {
         "default_icon": {
