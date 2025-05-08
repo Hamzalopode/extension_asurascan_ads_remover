@@ -2,7 +2,7 @@
     "name": "AsuraScan Popup Clicker",
     "description": "Automatically clicks 'Skip Ad' or closes annoying premium/promo popups & banners on AsuraComic.net.",
     "version": "1.0",
-    "manifest_version": 3,
+    "manifest_version": 4,
     "permissions": ["scripting", "storage"],
     "host_permissions": ["*://*.asuracomic.net/*"],
     "action": {
